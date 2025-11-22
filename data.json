@@ -1,0 +1,62 @@
+[
+{
+    "nome": "Javascript",
+    "descrição": "JavaScript é uma linguagem de programação interpretada de alto nível, usada principalmente para desenvolvimento web para criar páginas interativas.",
+    "ano" : 1995,
+    "link" : "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+{
+    "nome": "Python",
+    "descrição": "Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legível, amplamente utilizada em desenvolvimento web, ciência de dados e automação.",
+    "ano" : 1991,
+    "link" : "https://docs.python.org/pt-br/3.14"
+},
+{
+    "nome": "Java",
+    "descrição": "Java é uma linguagem de programação orientada a objetos, popular para o desenvolvimento de aplicações empresariais, aplicativos Android e sistemas de grande escala. [1]",
+    "ano" : 1995,
+    "link" : "https://docs.oracle.com/en/java/"
+},
+{
+    "nome": "C++",
+    "descrição": "C++ é uma extensão da linguagem C, amplamente utilizada para o desenvolvimento de software de sistema, jogos, drivers e aplicações de alto desempenho. [3]",
+    "ano" : 1985,
+    "link" : "https://isocpp.org/get-started"
+},
+{
+    "nome": "C#",
+    "descrição": "C# (pronuncia-se 'C sharp') é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft, principalmente para a plataforma .NET. [5]",
+    "ano" : 2000,
+    "link" : "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+    "nome": "PHP",
+    "descrição": "PHP é uma linguagem de script do lado do servidor, projetada especialmente para o desenvolvimento web, permitindo a criação de páginas dinâmicas. [7]",
+    "ano" : 1994,
+    "link" : "https://www.php.net/manual/pt_BR/"
+},
+{
+    "nome": "TypeScript",
+    "descrição": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem, ajudando a criar aplicações mais robustas e escaláveis. [9]",
+    "ano" : 2012,
+    "link" : "https://www.typescriptlang.org/docs/"
+},
+{
+    "nome": "Go",
+    "descrição": "Go (ou Golang) é uma linguagem de programação compilada e concorrente, criada pelo Google, focada em simplicidade, eficiência e desempenho. [11]",
+    "ano" : 2009,
+    "link" : "https://go.dev/doc/"
+},
+{
+    "nome": "Swift",
+    "descrição": "Swift é uma linguagem de programação poderosa e intuitiva, criada pela Apple para o desenvolvimento de aplicativos para iOS, macOS, watchOS e tvOS. [13]",
+    "ano" : 2014,
+    "link" : "https://www.swift.org/documentation/"
+},
+{
+    "nome": "Ruby",
+    "descrição": "Ruby é uma linguagem de programação dinâmica e de código aberto, com foco na simplicidade e produtividade, popularizada pelo framework de desenvolvimento web Ruby on Rails. [15]",
+    "ano" : 1995,
+    "link" : "https://www.ruby-lang.org/pt/documentation/"
+}
+]
